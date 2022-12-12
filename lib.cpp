@@ -1,6 +1,6 @@
 #include "lib.h"
 
-int maggiore (int dimension, int alfa[]) {
+float maggiore (int dimension, float alfa[]) {
 int p=1, q=0;
 if(alfa[q]<alfa[p]) {
 for (p; p<dimension-1; p++){
