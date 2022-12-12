@@ -5,7 +5,7 @@ using namespace std;
 int main(){
   int dimension = 0;
 cin >> dimension;
-int beta[dimension];
+float beta[dimension];
 for (int i=0; i<dimension; i++) {
 beta[i]=0;
 } for (int i=0; i<dimension; i++) {
