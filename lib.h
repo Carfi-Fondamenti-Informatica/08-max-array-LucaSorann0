@@ -1,1 +1,1 @@
-int maggiore (int, int);
+int maggiore (int dimension, int alfa[]);
